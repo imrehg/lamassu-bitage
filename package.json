@@ -1,7 +1,7 @@
 {
   "name": "lamassu-bitage",
   "version": "0.0.1",
-  "description": "Lamassu bitage ticker",
+  "description": "Lamassu Bitage ticker",
   "main": "lib/index.js",
   "scripts": {
     "test": "tap ./test"
